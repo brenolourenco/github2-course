@@ -6,3 +6,5 @@ Essa estrutura acima é como se coloca um link no Readme.
 Adicionando mais uma linha no leia-me.
 
 Fazendo uma modificação aleatória. Estudo do GIT STASH
+
+Profile do autor: [Breno Lourenço](http://www.google.com)
